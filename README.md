@@ -5,7 +5,6 @@ A simple Python demo that checks whether trades are valid for a portfolio. It lo
 ## Run it
 
 ```powershell
-cd "c:\Users\SaikatMaji\Downloads\AUGAIKATA2 (1)"
 python app.py
 ```
 
